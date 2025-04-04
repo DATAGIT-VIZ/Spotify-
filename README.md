@@ -8,11 +8,17 @@ This project demonstrates **PostgreSQL SQL skills** by analyzing a music dataset
 - **Querying:** 15 SQL questions (easy, medium, and advanced) to showcase database manipulation and insights extraction.
 - **Optimization:** SQL solutions demonstrating performance-efficient querying.
 
-## 📁 Project Structure
-- `spotify_insert_1000_concise.sql` → SQL script with insert statements.
-- `sql_project_questions.txt` → 15 SQL questions (easy, medium, advanced).
-- `README.md` → Project overview and details.
-- `dataset_sample.csv` → Sample data to preview the structure.
+##  Queries and Solutions 
+
+''' sql
+
+------- Easy Level Questions 
+
+----1. Retrieve all the details of the songs performed by 'Gorillaz'.
+   
+   select * from spotify 
+	where artist = 'Gorillaz'
+'''
 
 ## 🛠️ Technologies Used
 - PostgreSQL
