@@ -1,5 +1,9 @@
 # 🎵 PostgreSQL Music Analytics Project
 
+
+![image](https://github.com/user-attachments/assets/3d3f783c-2d7b-4923-8370-8de4b190e118)
+
+
 ## 📊 Project Overview
 This project is a comprehensive SQL-based analysis of a music dataset (Spotify). The original data was cleaned and made concise using AI-assisted methods to ensure consistency and remove noise. After preparing the dataset, I crafted a variety of SQL queries categorized into easy, medium, and advanced levels to explore key insights and practice real-world SQL use cases.
 
