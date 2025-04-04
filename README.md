@@ -145,13 +145,14 @@ ORDER BY song_count DESC;
 ---
 
 ## 🛠️ Technologies Used
-- PostgreSQL
-- SQL
-- Data Manipulation & Aggregation
+## PostgreSQL – For creating tables, importing data, and writing SQL queries to explore and analyze the dataset.
 
-## 🚀 How to Run
-1. **Import the dataset** into PostgreSQL.
-2. **Run the SQL script** to insert the first 1000 rows.
-3. **Test your SQL skills** by solving the provided questions.
+## SQL – Used to craft beginner to advanced level queries, covering filtering, aggregation, window functions, and more.
+
+## AI Assistance – Leveraged AI to clean and streamline the dataset, ensuring consistency and structure.
+
+## CSV – Cleaned and structured the dataset in CSV format for easy import and analysis.
+
+## Git & GitHub – For version control and sharing the project with the community.
 
 ✅ Feel free to explore and contribute!
