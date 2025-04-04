@@ -9,15 +9,12 @@ This project demonstrates **PostgreSQL SQL skills** by analyzing a music dataset
 - **Optimization:** SQL solutions demonstrating performance-efficient querying.
 
 ##  Queries and Solutions 
-
-''' sql
-
-------- Easy Level Questions 
+------ Easy Level Questions 
 
 ----1. Retrieve all the details of the songs performed by 'Gorillaz'.
-   
-   select * from spotify 
-	where artist = 'Gorillaz'
+   ''' sql
+ select * from spotify 
+where artist = 'Gorillaz'
 '''
 
 ## 🛠️ Technologies Used
