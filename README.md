@@ -12,8 +12,8 @@ This project demonstrates **PostgreSQL SQL skills** by analyzing a music dataset
 ------ Easy Level Questions 
 
 ----1. Retrieve all the details of the songs performed by 'Gorillaz'.
-   ''' sql
- select * from spotify 
+   '''sql
+select * from spotify 
 where artist = 'Gorillaz'
 '''
 
